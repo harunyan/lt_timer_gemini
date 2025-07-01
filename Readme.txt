@@ -1,0 +1,1 @@
+This is a Readme file for the LT Timer Gemini project.
